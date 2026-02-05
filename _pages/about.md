@@ -1,6 +1,13 @@
 ---
+---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Data Enthusiast & Experience Curator"
+author_profile: true
+---
+I am a **Data Enthusiast** currently bridging the gap between Data Analytics and **Data Engineering**. 
+
+### 🎧 The Wozo Vision
+When I am not working with data, I am **curating experiences through music**. Through the **Wozo Vision**, I explore the fusion of my Caribbean roots with EDM through DJing and playlist curation.
 author_profile: true
 redirect_from: 
   - /about/
